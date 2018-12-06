@@ -1,0 +1,7 @@
+C:\Users\gw309661\Desktop\C#\chapter 5\EnterLowecaseLetter\EnterLowecaseLetter\bin\Debug\EnterLowecaseLetter.exe.config
+C:\Users\gw309661\Desktop\C#\chapter 5\EnterLowecaseLetter\EnterLowecaseLetter\bin\Debug\EnterLowecaseLetter.exe
+C:\Users\gw309661\Desktop\C#\chapter 5\EnterLowecaseLetter\EnterLowecaseLetter\bin\Debug\EnterLowecaseLetter.pdb
+C:\Users\gw309661\Desktop\C#\chapter 5\EnterLowecaseLetter\EnterLowecaseLetter\obj\Debug\EnterLowecaseLetter.csprojAssemblyReference.cache
+C:\Users\gw309661\Desktop\C#\chapter 5\EnterLowecaseLetter\EnterLowecaseLetter\obj\Debug\EnterLowecaseLetter.csproj.CoreCompileInputs.cache
+C:\Users\gw309661\Desktop\C#\chapter 5\EnterLowecaseLetter\EnterLowecaseLetter\obj\Debug\EnterLowecaseLetter.exe
+C:\Users\gw309661\Desktop\C#\chapter 5\EnterLowecaseLetter\EnterLowecaseLetter\obj\Debug\EnterLowecaseLetter.pdb

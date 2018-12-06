@@ -1,0 +1,7 @@
+C:\Users\gw309661\Desktop\C#\chapter 5\validID\validID\obj\Debug\validID.csprojAssemblyReference.cache
+C:\Users\gw309661\Desktop\C#\chapter 5\validID\validID\obj\Debug\validID.csproj.CoreCompileInputs.cache
+C:\Users\gw309661\Desktop\C#\chapter 5\validID\validID\bin\Debug\validID.exe.config
+C:\Users\gw309661\Desktop\C#\chapter 5\validID\validID\bin\Debug\validID.exe
+C:\Users\gw309661\Desktop\C#\chapter 5\validID\validID\bin\Debug\validID.pdb
+C:\Users\gw309661\Desktop\C#\chapter 5\validID\validID\obj\Debug\validID.exe
+C:\Users\gw309661\Desktop\C#\chapter 5\validID\validID\obj\Debug\validID.pdb

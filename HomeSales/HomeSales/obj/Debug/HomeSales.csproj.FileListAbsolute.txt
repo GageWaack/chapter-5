@@ -1,0 +1,7 @@
+C:\Users\gw309661\Desktop\C#\chapter 5\HomeSales\HomeSales\bin\Debug\HomeSales.exe.config
+C:\Users\gw309661\Desktop\C#\chapter 5\HomeSales\HomeSales\bin\Debug\HomeSales.exe
+C:\Users\gw309661\Desktop\C#\chapter 5\HomeSales\HomeSales\bin\Debug\HomeSales.pdb
+C:\Users\gw309661\Desktop\C#\chapter 5\HomeSales\HomeSales\obj\Debug\HomeSales.csprojAssemblyReference.cache
+C:\Users\gw309661\Desktop\C#\chapter 5\HomeSales\HomeSales\obj\Debug\HomeSales.csproj.CoreCompileInputs.cache
+C:\Users\gw309661\Desktop\C#\chapter 5\HomeSales\HomeSales\obj\Debug\HomeSales.exe
+C:\Users\gw309661\Desktop\C#\chapter 5\HomeSales\HomeSales\obj\Debug\HomeSales.pdb

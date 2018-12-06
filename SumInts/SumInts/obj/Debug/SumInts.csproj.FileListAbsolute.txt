@@ -1,0 +1,7 @@
+C:\Users\gw309661\Desktop\C#\chapter 5\SumInts\SumInts\bin\Debug\SumInts.exe.config
+C:\Users\gw309661\Desktop\C#\chapter 5\SumInts\SumInts\bin\Debug\SumInts.exe
+C:\Users\gw309661\Desktop\C#\chapter 5\SumInts\SumInts\bin\Debug\SumInts.pdb
+C:\Users\gw309661\Desktop\C#\chapter 5\SumInts\SumInts\obj\Debug\SumInts.csprojAssemblyReference.cache
+C:\Users\gw309661\Desktop\C#\chapter 5\SumInts\SumInts\obj\Debug\SumInts.csproj.CoreCompileInputs.cache
+C:\Users\gw309661\Desktop\C#\chapter 5\SumInts\SumInts\obj\Debug\SumInts.exe
+C:\Users\gw309661\Desktop\C#\chapter 5\SumInts\SumInts\obj\Debug\SumInts.pdb
